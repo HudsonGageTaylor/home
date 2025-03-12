@@ -1,2 +1,2 @@
-echo Hi lol
+Write-Host "Hello queen!"
 pause
